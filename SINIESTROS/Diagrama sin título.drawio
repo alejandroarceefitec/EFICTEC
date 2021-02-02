@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T14:15:48.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="55Jhz8qOM0Mhni9j0Fpd" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T14:40:35.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="bYLK1zpbyRa1WHzX-OKz" version="14.2.9" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
-    <mxGraphModel dx="923" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
           <mxGeometry x="1540" y="1360" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GOEN2tkdzdeYJuLIRA6P-17" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Formulario_Respuesta&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;nid_formulario_resp&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;snombre_campo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nid_tipo_campo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nobligatorio&lt;br&gt;dregistro&lt;br&gt;dmodificacion&lt;br&gt;nestado&lt;br&gt;nid_usuario_modif&lt;br&gt;nid_usuario_crea&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="1930" y="1115" width="180" height="165" as="geometry" />
+          <mxGeometry x="1810" y="1115" width="180" height="165" as="geometry" />
         </mxCell>
         <mxCell id="GOEN2tkdzdeYJuLIRA6P-18" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Formulario_Evaluador&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;nid_formulario&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;nid_formualrio_det&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;norden&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;nid_perfil_evaluador&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;ntiempo_evaluacion&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nrecibe_notificacion&lt;br&gt;dregistro&lt;br&gt;dmodificacion&lt;br&gt;nestado&lt;br&gt;nid_usuario_modif&lt;br&gt;nid_usuario_crea&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="1280" y="1370" width="180" height="200" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="2090" y="730" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GOEN2tkdzdeYJuLIRA6P-24" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Tabla_Log&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;nid_error&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;sdecripcion_error&lt;br&gt;dregistro&lt;br&gt;dmodificacion&lt;br&gt;nestado&lt;br&gt;nid_usuario_modif&lt;br&gt;nid_usuario_crea&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="1740" y="910" width="180" height="140" as="geometry" />
+          <mxGeometry x="1680" y="880" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GOEN2tkdzdeYJuLIRA6P-25" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Req_Sol_Respuesta&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;nid_reg_sol_respuesta&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;nid_reg_sol_pregunta&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;senunciado_respuesta&lt;br&gt;nid_formulario_resp&lt;br&gt;&lt;table cellpadding=&quot;2&quot; cellspacing=&quot;0&quot; style=&quot;font-size: 1em ; width: 211.2px&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;nid_archivo&lt;br&gt;dregistro&lt;br&gt;dmodificacion&lt;br&gt;nestado&lt;br&gt;nid_usuario_modif&lt;br&gt;nid_usuario_crea&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="2210" y="460" width="180" height="180" as="geometry" />
@@ -275,15 +275,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GOEN2tkdzdeYJuLIRA6P-79" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;align=left;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=-0.004;exitY=0.692;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GOEN2tkdzdeYJuLIRA6P-25" edge="1">
+        <mxCell id="GOEN2tkdzdeYJuLIRA6P-79" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;align=left;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=-0.004;exitY=0.692;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GOEN2tkdzdeYJuLIRA6P-25" edge="1" target="GOEN2tkdzdeYJuLIRA6P-17">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="2020" y="530" as="sourcePoint" />
             <mxPoint x="2010.6900000000005" y="1115" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2079" y="500" />
+              <mxPoint x="2209" y="500" />
               <mxPoint x="1990" y="500" />
               <mxPoint x="1990" y="1075" />
-              <mxPoint x="2011" y="1075" />
+              <mxPoint x="1900" y="1075" />
             </Array>
           </mxGeometry>
         </mxCell>
